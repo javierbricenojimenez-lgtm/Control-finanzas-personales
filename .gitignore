@@ -1,0 +1,49 @@
+
+# Entornos virtuales
+.venv/
+.venv-1/
+venv/
+
+# Base de datos local
+finanzas.db
+finanzas.db-journal
+finanzas.db-wal
+finanzas.db-shm
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Configuracion local
+.env
+.streamlit/secrets.toml
+
+# Respaldos
+respaldo/
+
+# Archivos generados
+reporte_movimientos.csv
+reporte_movimientos.xlsx
+
+
+# Archivos de reportes y pruebas
+movimientos.csv
+movimientos_backup.csv
+informe_financiero.csv
+grafico_gastos.png
+comparacion_mensual.png
+
+# Bases de datos SQLite
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+# Respaldos CSV
+movimientos_backup.csv..csv
+# Herramientas locales y pruebas
+consultas.py
+importar_csv.py
+probar_sql.py
+# Aplicacion de consola y configuracion local
+main.py
+database.py
