@@ -1,6 +1,11 @@
 
 # 💰 Expense Tracker
 
+## 🚀 Aplicación en línea
+
+Prueba el dashboard interactivo aquí:
+
+[🔗 Abrir Expense Tracker](https://expense-tracker-javier.streamlit.app/)
 Aplicación web de gestión financiera personal desarrollada con Python, SQLite y Streamlit.
 
 Permite registrar ingresos y gastos, analizar movimientos financieros mediante indicadores y gráficos interactivos, y exportar reportes en Excel y CSV.
