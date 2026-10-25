@@ -1,5 +1,6 @@
 
 import sqlite3
+from contextlib import closing
 import tempfile
 import atexit
 from pathlib import Path
@@ -47,7 +48,7 @@ def crear_base_demo_temporal():
     # Programar limpieza al finalizar Python
     atexit.register(eliminar_base_demo_temporal, str(ruta))
 
-    with sqlite3.connect(ruta) as conexion:
+    with closing(sqlite3.connect(ruta)) as conexion:
         conexion.execute("""
             CREATE TABLE movimientos (
                 id INTEGER PRIMARY KEY AUTOINCREMENT,

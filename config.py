@@ -8,4 +8,4 @@ import os
 MODO_PUBLICO = os.getenv(
     "EXPENSE_TRACKER_PUBLIC",
     "true"
-).lower() == "true"
+).strip().lower() != "false"
