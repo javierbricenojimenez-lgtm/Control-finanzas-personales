@@ -23,12 +23,12 @@ def formato_clp(valor):
 
 # Configuracion de la pagina
 st.set_page_config(
-    page_title="Expense Tracker",
+    page_title="Control Financiero Personal",
     page_icon=":material/account_balance_wallet:",
     layout="wide"
 )
 
-st.sidebar.title(":material/account_balance_wallet: Expense Tracker")
+st.sidebar.title(":material/account_balance_wallet: Control Financiero Personal")
 st.sidebar.caption("FINANZAS PERSONALES · 2.0")
 st.title("Tu dinero, con claridad.")
 st.caption("Organiza tus movimientos y entiende en qué estás gastando.")
