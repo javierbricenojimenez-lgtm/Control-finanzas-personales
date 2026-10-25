@@ -1,6 +1,5 @@
 
-# 💰 Expense Tracker
-
+# 💰 Control Financiero Personal
 ## 🚀 Aplicación en línea
 
 Prueba el dashboard interactivo aquí:
