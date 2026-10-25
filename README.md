@@ -102,4 +102,15 @@ Proyecto de portafolio orientado a demostrar habilidades prácticas en:
 
 ## 📌 Estado
 
-Versión 1.0 — Preparación para publicación.
+Versión 2.0 — Interfaz renovada.
+
+
+## Interfaz 2.0
+
+La aplicación organiza sus funciones en Resumen, Registrar movimiento, Movimientos, Categorías, Gráficos y Reportes. Incluye formulario adaptable, indicadores, porcentajes de gasto, filtros, edición y eliminación con confirmación, y descargas CSV y Excel.
+
+La demostración pública utiliza exclusivamente datos ficticios y una base temporal independiente por sesión. Los cambios no son permanentes y pueden restablecerse con Reiniciar demostración. No requiere datos personales.
+
+Validación: 74 comprobaciones automáticas con datos ficticios, reconciliación de gráficos y saldos, filtros combinados y exportaciones, incluida una prueba de volumen de 10.035 registros.
+
+El modo personal es solo para uso local con un servidor limitado a 127.0.0.1 o ::1. No proporciona autenticación para uso remoto.
