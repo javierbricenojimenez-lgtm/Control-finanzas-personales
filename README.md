@@ -1,5 +1,10 @@
 
 # 💰 Control Financiero Personal
+
+**Proyecto de aprendizaje desarrollado con asistencia de inteligencia artificial.**
+
+Este proyecto explora el uso de herramientas digitales en finanzas personales. La IA asistió de forma significativa en la generación y modificación del código, la interfaz y las pruebas. Mi participación se centró en definir las necesidades financieras, probar los flujos de uso y revisar los resultados con orientación. Mis conocimientos de Python son básicos y continúan en desarrollo.
+
 ## 🚀 Aplicación en línea
 
 Prueba el dashboard interactivo aquí:
@@ -90,7 +95,7 @@ La versión pública está diseñada para utilizar exclusivamente información f
 
 ## 🎯 Objetivo del proyecto
 
-Proyecto de portafolio orientado a demostrar habilidades prácticas en:
+Proyecto de aprendizaje orientado a familiarizarme, con asistencia de IA, con:
 
 - Desarrollo de aplicaciones con Python.
 - Consultas y operaciones CRUD con SQL.
